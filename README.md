@@ -18,6 +18,7 @@ We also want to incentivize scientists to do the work of creating these annotati
 * Visualizing data in interesting ways.
  * Misconceptions over time.
  * Breakdown of what is most misunderstood. We could visualize how many annotations have a certain tag with a pie-chart for example. We can visualize the ontology.
+* Current annotations feed. 
 
 ## Hypothes.is Requirements
 This will be powered by [Hypothes.is](https://hypothes.is), and *might* potentially run it's own annotation server (this could be easier than building a specific public groups feature for example). It is important that people annotating and moderating the annotations have the right credentials in climate science (PhDs and PhD Candidates). In other words we need to control access to comment. This could come in a number of forms.
