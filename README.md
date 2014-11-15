@@ -23,11 +23,17 @@ This will be powered by [Hypothes.is](https://hypothes.is), and *might* potentia
 * A public group feature.
 
 An MVP version might work like this:
+
 1. User clicks link for information on contributing.
+
 2. There is information on the process and a form for them to fill out.
+
 3. The email goes to site admins who can accept or reject the application.
+
 4. If accepted, they user is given an activation code and a link to download the extension.
+
 5. They are taken to a welcome page that explains both how to use the annotation software and how climatefeedback.org opperates.
+
 6. They can now make annotations on articles. 
 
 ##### Profiles
