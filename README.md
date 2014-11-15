@@ -15,6 +15,7 @@ We also want to incentivize scientists to do the work of creating these annotati
 * We can highlight trending articles.
 * We can focus on types of misinformation that are most prevalent.
 * We can allow users to easily share the findings (through direct linking).
+* Visualizing data in interesting ways.
 
 ## Hypothes.is Requirements
 This will be powered by [Hypothes.is](https://hypothes.is), and *might* potentially run it's own annotation server (this could be easier than building a specific public groups feature for example). It is important that people annotating and moderating the annotations have the right credentials in climate science (PhDs and PhD Candidates). In other words we need to control access to comment. This could come in a number of forms.
