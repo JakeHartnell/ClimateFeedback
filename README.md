@@ -14,10 +14,13 @@ This will be powered by [Hypothes.is](https://hypothes.is). It is important that
 * A public group feature
 
 ##### Profiles
-It might be important to show the credentials of the scientists annotating. We should have a talk with them about what information they would like to include in their profile. For example, the profile might contain links to credentials such as published papers, ORCID IDs, Google Schoolar profiles, etc.
+It might be important to show the credentials of the scientists annotating. We should have a talk with them about what information they would like to include in their profile. For example, the profile might contain links to credentials such as published papers, ORCID IDs, Google Schoolar profiles, etc. We need to have some way for them to provide this information in their profile.
+
+##### Direct linking
+For people who don't have the extension, direct linking will provide an important way for them to be able to see the annotations of the climate scientists. Articles could be featured on the home page of ClimateFeedback.org and clicking on the article could take the reader to that page with the extension loaded.
 
 ##### Multi-store
-It might be easier to organize this as a separate annotation store. 
+Eventually, it would be great if we could make it easy for people to subscribe to these annotations in hypothes.is. 
 
 ## Frequently Asked Questions
 Answers from http://climatefeedback.org/FAQ.html
