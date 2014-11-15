@@ -5,13 +5,28 @@ ClimateFeedback
 
 > We propose to experiment a novel approach to help Internet users from the general public to key policymakers evaluate how scientifically sound are the claims they read about climate science. A primary goal is to encourage better initial reporting through a consistent, repeated process of collaborative evaluation.
 
-At Ecohack SF we have begun work on sketching out what an implementation of this could look like. The goal of this is ultimately providing not only correct information, but also a form of accountability. 
+At Ecohack SF we have begun work on sketching out what an implementation of this could look like. The goal of this is ultimately providing not only correct information, but also a form of accountability.
+
+We also want to incentivize scientists to do the work of creating these annotations (though saving the planet is certainly the best reason). We are exploring ideas around:
+* Leaderboards: see who's creating the best annotations, with the goal of providing acknowledgement for really good contributors. 
+  * Could potentially explore using something like GitTip?
+* Best sources: we can highlight websites that do a good job with climate science.
+* Worst offenders: we can shame people who are doing a bad job.
+* We can highlight trending articles.
 
 ## Hypothes.is Requirements
-This will be powered by [Hypothes.is](https://hypothes.is). It is important that people annotating and moderating the annotations have the right credentials in climate science (PhDs and PhD Candidates). In other words we need to control access to comment. This could come in a number of forms.
+This will be powered by [Hypothes.is](https://hypothes.is), and *might* potentially run it's own annotation server (this could be easier than building a specific public groups feature for example). It is important that people annotating and moderating the annotations have the right credentials in climate science (PhDs and PhD Candidates). In other words we need to control access to comment. This could come in a number of forms.
 * Moderation workflow: anyone can create annotation, but moderators PhDs and PhD candidates can approve them.
 * Some form of invite only account creation. This maybe in the form of an authorization code that people need to create an account. The only way to get an authorization code is to email the projects leaders. It might be quicker to build something like this. 
-* A public group feature
+* A public group feature.
+
+An MVP version might work like this:
+1. User clicks link for information on contributing.
+2. There is information on the process and a form for them to fill out.
+3. The email goes to site admins who can accept or reject the application.
+4. If accepted, they user is given an activation code and a link to download the extension.
+5. They are taken to a welcome page that explains both how to use the annotation software and how climatefeedback.org opperates.
+6. They can now make annotations on articles. 
 
 ##### Profiles
 It might be important to show the credentials of the scientists annotating. We should have a talk with them about what information they would like to include in their profile. For example, the profile might contain links to credentials such as published papers, ORCID IDs, Google Schoolar profiles, etc. We need to have some way for them to provide this information in their profile.
