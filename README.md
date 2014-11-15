@@ -10,8 +10,7 @@ At Ecohack SF we have begun work on sketching out what an implementation of this
 We also want to incentivize scientists to do the work of creating these annotations (though saving the planet is certainly the best reason). We are exploring ideas around:
 * Leaderboards: see who's creating the best annotations, with the goal of providing acknowledgement for really good contributors. 
   * Could potentially explore using something like GitTip?
-* Best sources: we can highlight websites that do a good job with climate science.
-* Worst offenders: we can shame people who are doing a bad job.
+* Identifying sources of misinformation. Commonly sited articles that are misleading or wrong.
 * We can highlight trending articles.
 * We can focus on types of misinformation that are most prevalent.
 * We can allow users to easily share the findings (through direct linking).
