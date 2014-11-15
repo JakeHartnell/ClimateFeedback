@@ -10,7 +10,7 @@ At Ecohack SF we have begun work on sketching out what an implementation of this
 We also want to incentivize scientists to do the work of creating these annotations (though saving the planet is certainly the best reason). We are exploring ideas around:
 * Leaderboards: see who's creating the best annotations, with the goal of providing acknowledgement for really good contributors. 
   * Could potentially explore using something like GitTip?
-* Identifying sources of misinformation. Commonly sited articles that are misleading or wrong.
+* Identifying sources of misinformation. Commonly cited articles that are misleading or wrong.
 * We can highlight trending articles.
 * We can focus on types of misinformation that are most prevalent.
 * We can allow users to easily share the findings (through direct linking).
@@ -40,7 +40,7 @@ An MVP version might work like this:
 6. They can now make annotations on articles. 
 
 ##### Profiles
-It might be important to show the credentials of the scientists annotating. We should have a talk with them about what information they would like to include in their profile. For example, the profile might contain links to credentials such as published papers, ORCID IDs, Google Schoolar profiles, etc. We need to have some way for them to provide this information in their profile.
+It might be important to show the credentials of the scientists annotating. We should have a talk with them about what information they would like to include in their profile. For example, the profile might contain links to credentials such as published papers, ORCID IDs, Google Scholar profiles, etc. We need to have some way for them to provide this information in their profile.
 
 ##### Direct linking
 For people who don't have the extension, direct linking will provide an important way for them to be able to see the annotations of the climate scientists. Articles could be featured on the home page of ClimateFeedback.org and clicking on the article could take the reader to that page with the extension loaded.
