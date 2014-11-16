@@ -5,10 +5,10 @@
 Export globals to script environment, with the
 values provided by dev.twitter.com:
 
-CF_CONSUMER_KEY
-CF_CONSUMER_SECRET
-CF_TOKEN
-CF_TOKEN_SECRET
+- CF_CONSUMER_KEY
+- CF_CONSUMER_SECRET
+- CF_TOKEN
+- CF_TOKEN_SECRET
 
 ## Redis
 
