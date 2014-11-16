@@ -36,6 +36,7 @@ redis-cli
 ```
 git clone <repo>
 npm install
+bower install
 ```
 
 ## Run
