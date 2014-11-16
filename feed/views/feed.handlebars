@@ -1,0 +1,14 @@
+<div class="recent jumbotron">
+	<h3>Recent Tweets</h3>
+	<ul class="list-group">
+		{{#each tweets}}
+			<li class="list-group-item tweet">
+				<img class="image" src="{{user.profile_image_url}}">
+				<span class="badge retweet">Retweets: {{retweet_count}}</span>
+				<span class="badge fav">Favorites: {{favorite_count}}</span>
+				<span class="tweet-text">{{text}}</span>
+			</li>
+	 	{{/each}}
+	</ul>
+	<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
