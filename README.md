@@ -10,6 +10,9 @@ At Ecohack SF we have begun work on sketching out what an implementation of this
 We also want to incentivize scientists to do the work of creating these annotations (though saving the planet is certainly the best reason). We are exploring ideas around:
 * Leaderboards: see who's creating the best annotations, with the goal of providing acknowledgement for really good contributors. 
   * Could potentially explore using something like GitTip?
+* Profiles
+
+We also want to promote discussion which will lead to accountability. 
 * Identifying sources of misinformation. Commonly cited articles that are misleading or wrong.
 * We can highlight trending articles.
 * We can focus on types of misinformation that are most prevalent.
@@ -45,8 +48,11 @@ It might be important to show the credentials of the scientists annotating. We s
 ##### Direct linking
 For people who don't have the extension, direct linking will provide an important way for them to be able to see the annotations of the climate scientists. Articles could be featured on the home page of ClimateFeedback.org and clicking on the article could take the reader to that page with the extension loaded.
 
+##### Embedded annotations
+Part of the purpose of this is to generate conversation, and help journalists due a better job of climate reporting. Embedded annotations can help with this by allowing people to reuse the annotations in additional responses to the articles such as blog posts.
+
 ##### Multi-store
-Eventually, it would be great if we could make it easy for people to subscribe to these annotations in hypothes.is. 
+Eventually, it would be great if we could make it easy for people to subscribe to these annotations in hypothes.is. However, this wouldn't be needed if climatefeedback.org was a public group on hypothes.is rather than hosting its own instance.
 
 ## Frequently Asked Questions
 Answers from http://climatefeedback.org/FAQ.html
